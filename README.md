@@ -7,7 +7,7 @@
   </a>
   <p align="center">
     <h1>XBOX ISO Extractor</h1>
-    Modernized & Enhanced Edition
+    Original Xbox & XBOX360
     <br />
     <br />
     A GUI for <a href="https://github.com/XboxDev/extract-xiso">extract-xiso</a> and <a href="https://github.com/iliazeus/iso2god-rs">iso2god</a> — extract, create, and convert Original Xbox and Xbox 360 ISOs.
